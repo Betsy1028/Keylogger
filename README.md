@@ -1,2 +1,2 @@
-# Keylogger
-I practiced making a keylogger for educational purposes. 
+Keylogger
+This project demonstrates how to create a Keylogger for educational purposes.
